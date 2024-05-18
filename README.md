@@ -7,7 +7,7 @@ Using the UCI-HAR dataset, this paper examines Human Activity Recognition (HAR) 
 # Read the Full Paper on <a href = 'https://www.researchgate.net/publication/379564439_Enhanced_human_activity_recognition_through_deep_multi-layer_perceptron_on_the_UCI-HAR_dataset'> Research Gate </a> <br>
 <br> 
 **System architectures used in this research.** <br>
-_MLP Architecture_
+_MLP Architecture_ <br>
 <img src = 'https://github.com/SajeebRay/Human-Activity-Recognition/blob/main/MLP%20Architecture.jpg' > <br>
-_CNN Architecture_
+_CNN Architecture_ <br>
 <img src = 'https://github.com/SajeebRay/Human-Activity-Recognition/blob/main/CNN Architecture.jpg' > <br>
